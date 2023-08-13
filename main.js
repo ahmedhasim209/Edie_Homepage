@@ -11,4 +11,5 @@ icon.onclick = function () {
 ex.onclick = function () {
     ul.style.display = "none"
     icon.style.display = "block"
+    ex.style.display = "none"
 }
